@@ -1,2 +1,0 @@
-:use
-	play_snd("res://game/sfx/sounds/bird-honk.wav", _music)

@@ -1,3 +1,0 @@
-:use
-	if ESC_CURRENT_SCENE != "room15":
-		say($player, "No, current room is not room15.")

@@ -1,3 +1,0 @@
-:use
-	set_interactive($middle_item, false)
-	set_state($middle_item, "folded")

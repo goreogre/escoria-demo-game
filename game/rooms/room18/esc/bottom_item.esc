@@ -1,2 +1,0 @@
-:use
-	change_scene("res://game/rooms/room19/room19.tscn")
