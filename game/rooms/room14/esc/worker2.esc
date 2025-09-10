@@ -1,3 +1,0 @@
-:moveworker2
-	# Non-blocking command
-	walk($worker2, "worker2_target")

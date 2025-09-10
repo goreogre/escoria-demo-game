@@ -95,12 +95,6 @@ debug/enable_hover_stack_viewer=true
 main/escoria_version="4.0-alpha"
 debug/perform_script_analysis_at_runtime=true
 
-[file_customization]
-
-folder_colors={
-"res://game/rooms/": "teal"
-}
-
 [input]
 
 esc_show_debug_prompt={

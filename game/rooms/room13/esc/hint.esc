@@ -1,2 +1,0 @@
-:look
-	say($player, "I can just click the exits apparently.")
