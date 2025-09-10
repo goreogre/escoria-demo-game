@@ -1,6 +1,4 @@
-[gd_scene load_steps=9 format=3 uid="uid://b6fjpnn3uo0r1"]
-
-[ext_resource type="Script" uid="uid://b4iy2vvtmycyt" path="res://addons/escoria-core/game/character_body_3d.gd" id="1_4c7px"]
+[gd_scene load_steps=8 format=3 uid="uid://b6fjpnn3uo0r1"]
 
 [sub_resource type="CapsuleMesh" id="CapsuleMesh_ju4lg"]
 
@@ -23,7 +21,7 @@ size = Vector3(32.4944, 1, 32.3866)
 [node name="Node3D" type="Node3D"]
 
 [node name="CharacterBody3D" type="CharacterBody3D" parent="."]
-script = ExtResource("1_4c7px")
+motion_mode = 1
 
 [node name="MeshInstance3D" type="MeshInstance3D" parent="CharacterBody3D"]
 transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, 0, 1.0203, 0)
